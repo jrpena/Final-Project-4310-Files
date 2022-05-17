@@ -1,0 +1,37 @@
+<style>
+		body {
+				background-color: #89cff0;
+		}
+		h1 {
+		color: coral;
+		font-size: 70px;
+		text-align: center;
+		font-weight: bold;
+		background-color: #add8e6;
+		font-family: 'Dancing Script', cursive;
+		text-transform: uppercase;
+		}
+		#left {
+				background-color: #89cff0:
+		}
+		h2 {
+		color: white;
+		font-size: 25px;
+		text-align: center;
+		font-weight: bold;
+		}
+		h4 {
+		color: white;
+		font-size: 15px;
+		text-align: center;
+		font-weight: bold;
+		}
+		td	{
+			 background-color: #add8e6;
+		}
+		a {
+			background-color: #add8e6;
+			border-style: solid; border-width: 3px; border-color: blue;
+		}
+</style>
+		
